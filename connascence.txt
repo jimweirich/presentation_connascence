@@ -1,0 +1,4 @@
+Writing Modular Applications
+============================
+
+Many words of programming wisdom have been written to promote the idea of low coupling between modules.  "Prefer delegation over inheritance", "The Law of Demeter" are examples of these words of advice. But why does delegation introduce less coupling then inheritance.  And how does the law of Demeter reduce coupling.  To understand these issues, we will look at the concept of "connascence" how it applies to creating modular Ruby programs.
